@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'vocuca';
+$db['default']['username'] = 'seuolimpio';
 $db['default']['password'] = 'AFi0WcBCS2Wc7Pt0Kq1X';
-$db['default']['database'] = 'souza';
+$db['default']['database'] = 'snookerclub';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
