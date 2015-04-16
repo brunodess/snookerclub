@@ -24,3 +24,5 @@
 			<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
 		</div>
 	</nav>
+	<div class="section no-pad-bot" id="index-banner">
+		<div class="container">
